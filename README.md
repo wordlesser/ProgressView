@@ -1,2 +1,2 @@
 # ProgressView
-ProgressView
+用swift写的一个简单的进度指示器，可以处理失败情况，也可以用来学习BezierPath和一些动画
